@@ -1,0 +1,23 @@
+{
+  "name": "pluralsight_coding_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpalamar/pluralsight_coding_exercise.git"
+  },
+  "author": "Matthew Palamar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpalamar/pluralsight_coding_exercise/issues"
+  },
+  "homepage": "https://github.com/mpalamar/pluralsight_coding_exercise#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
