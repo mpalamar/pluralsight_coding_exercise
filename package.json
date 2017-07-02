@@ -1,10 +1,10 @@
 {
   "name": "pluralsight_coding_exercise",
   "version": "1.0.0",
-  "description": "",
+  "description": "Coding Exercise for PluralSight",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha packageInstallerTest.js"
   },
   "repository": {
     "type": "git",
